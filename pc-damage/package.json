@@ -1,0 +1,23 @@
+{
+  "name": "pc-damage",
+  "version": "1.0.0",
+  "description": "A project focused on the importance of data backup for PCs.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Building project...'",
+    "test": "echo 'Running tests...'"
+  },
+  "keywords": [
+    "data",
+    "backup",
+    "PC",
+    "recovery"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
